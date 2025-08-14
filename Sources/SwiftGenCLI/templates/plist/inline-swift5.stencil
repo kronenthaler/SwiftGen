@@ -80,3 +80,5 @@ import Foundation
 {% else %}
 // No files found
 {% endif %}
+
+// swiftlint:enable all

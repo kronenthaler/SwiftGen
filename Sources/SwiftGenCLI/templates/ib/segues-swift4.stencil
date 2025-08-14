@@ -58,3 +58,5 @@ import {{module}}
 {% else %}
 // No storyboard found
 {% endif %}
+
+// swiftlint:enable all
